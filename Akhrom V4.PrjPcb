@@ -209,7 +209,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BXUTCMPY
 
 [Document11]
-DocumentPath=para imprimir.OutJob
+DocumentPath=PCB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
